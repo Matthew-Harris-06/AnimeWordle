@@ -1,0 +1,2 @@
+# AnimeWordle
+ Worlde Fixed
